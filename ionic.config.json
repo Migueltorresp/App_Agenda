@@ -1,5 +1,7 @@
 {
   "name": "AgendaCrud",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
